@@ -30,8 +30,10 @@ How It works:
 
 Output:
    1. truffle compile:
+   
    ![image](https://user-images.githubusercontent.com/74295910/203910661-4e6b7d5f-480c-4291-82bb-33b8a7c72377.png)
    2. truffle migrate:
+   
    ![image](https://user-images.githubusercontent.com/74295910/203910931-8eae4de0-d05a-4e8b-908e-dd535ab83c7b.png)
    3. ganache:
    ![image](https://user-images.githubusercontent.com/74295910/203911076-28f1616f-8cf4-4815-9055-8e474473f7d5.png)
