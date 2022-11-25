@@ -29,5 +29,18 @@ How It works:
 
 
 Output:
-   1. Remix:
-   ![Remix](https://user-images.githubusercontent.com/82507473/203854123-6676218d-3407-4396-ab35-988df702f831.png)
+   1. truffle compile:
+   ![image](https://user-images.githubusercontent.com/74295910/203910661-4e6b7d5f-480c-4291-82bb-33b8a7c72377.png)
+   2. truffle migrate:
+   ![image](https://user-images.githubusercontent.com/74295910/203910931-8eae4de0-d05a-4e8b-908e-dd535ab83c7b.png)
+   3. ganache:
+   ![image](https://user-images.githubusercontent.com/74295910/203911076-28f1616f-8cf4-4815-9055-8e474473f7d5.png)
+   ![image](https://user-images.githubusercontent.com/74295910/203911163-fa0ce425-104e-420e-91a3-c9b66b104c31.png)
+   ![image](https://user-images.githubusercontent.com/74295910/203911213-19bbc14a-238c-4abf-873f-3bddcf144008.png)
+   ![image](https://user-images.githubusercontent.com/74295910/203911267-f5c7fd65-0930-4d44-886e-52d039be55df.png)
+   ![image](https://user-images.githubusercontent.com/74295910/203911307-687171ac-fcf6-42d8-bb50-2586a615e482.png)
+
+
+
+
+   
