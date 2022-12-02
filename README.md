@@ -6,12 +6,19 @@ Things used in the project:
 
 Architecture of the project:
    Global Variables:
+   
       1. Owner: The real owner who deployed the contract.
+      
       2. Start Time: The time when auction starts.
+      
       3. End Time: The time when the auction ends.
+      
       4. Highest Payable Bid: Highest person who is payable.
+      
       5. Highest Bidder: The person who have bidded highest.
+      
       6. Bid Increment: Increment bid by 1.
+      
       7. Bidders: key value pair to keep track of bidders.
    Functions:
       1. Cancel Auction
